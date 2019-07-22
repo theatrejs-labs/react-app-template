@@ -1,3 +1,5 @@
+# React App Template
+
 ## Installation
 
 ```
